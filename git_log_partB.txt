@@ -1,0 +1,93 @@
+commit d8006caf7a1d7726e2583d3dbeeab011208d0dbe
+Author: SamuelGangodak <samuelgangodak79@gmail.com>
+Date:   Sat Mar 9 11:26:51 2024 +0530
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..7395b11
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2026 Software Engineer
+
+commit 89413fb5b02e1c347e6fc3168b1c873d9644d86d
+Author: SamuelGangodak <samuelgangodak79@gmail.com>
+Date:   Sat Mar 9 11:17:50 2024 +0530
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index dbe0b4d..f3423d9 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,3 +1,4 @@
+ Samuel Ravindra Gangodak Computer Science and Engineering
+ Food Court 
+ War
++Blue
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 7395b11..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2026 Software Engineer
+
+commit d4c95982149bce6f6d281b5c28bd4f0ecad9de81
+Author: SamuelGangodak <samuelgangodak79@gmail.com>
+Date:   Sat Mar 9 11:11:53 2024 +0530
+
+    Committing a new file with my expected graduation year
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..7395b11
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2026 Software Engineer
+
+commit b9eb06b641777633231b9f7dd057e6b194ee176c
+Author: SamuelGangodak <samuelgangodak79@gmail.com>
+Date:   Sat Mar 9 10:56:03 2024 +0530
+
+    Added favourite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 2246254..dbe0b4d 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,3 @@
+ Samuel Ravindra Gangodak Computer Science and Engineering
++Food Court 
++War
+
+commit d3abf94f6e636a4e76420cf915e558e290129d66
+Author: SamuelGangodak <samuelgangodak79@gmail.com>
+Date:   Sat Mar 9 10:52:37 2024 +0530
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 465a771..2246254 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Samuel Ravindra Gangodak BT22CSE055
++Samuel Ravindra Gangodak Computer Science and Engineering
+
+commit 341ad58bccb8ecdf6792aa977a7870c61272a3f0
+Author: SamuelGangodak <samuelgangodak79@gmail.com>
+Date:   Wed Feb 14 16:57:14 2024 +0530
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..465a771
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Samuel Ravindra Gangodak BT22CSE055
